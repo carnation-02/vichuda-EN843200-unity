@@ -11,3 +11,16 @@ Part3
 • webBuild - https://carnation-02.github.io/vichuda-EN843200-unity/lab5/problem3/webBuild/
 
 • Video - https://carnation-02.github.io/vichuda-EN843200-unity/lab5/problem3/Video/lab5part3.mp4
+
+lab6
+
+Problem1
+
+• webBuild: https://carnation-02.github.io/vichuda-EN843200-unity/lab6/Problem1/Web/
+
+• Image: https://github.com/carnation-02/vichuda-EN843200-unity/tree/main/lab6/Problem1/Image
+
+Problem2
+
+• lab6p2p1: https://carnation-02.github.io/vichuda-EN843200-unity/lab6/Problem2/lab6p2p1.mp4
+
