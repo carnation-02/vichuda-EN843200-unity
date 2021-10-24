@@ -23,5 +23,6 @@ Problem1
 Problem2
 
 • lab6p2p1: https://carnation-02.github.io/vichuda-EN843200-unity/lab6/Problem2/lab6p2p1.mp4
+
 • lab6p2p2: https://carnation-02.github.io/vichuda-EN843200-unity/lab6/Problem2/lab6p2p2.mp4
 
